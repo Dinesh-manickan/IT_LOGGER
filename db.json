@@ -1,0 +1,60 @@
+{
+  "logs": [
+    {
+      "message": "Changed network card in server 007",
+      "attention": false,
+      "tech": "Saiesh Isha",
+      "date": "2023-12-15T16:51:11.534Z",
+      "id": 1
+    },
+    {
+      "message": "Hand Drive is not working at workstation 002",
+      "attention": true,
+      "tech": "Dylan",
+      "date": "2023-12-15T16:52:12.481Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Saiesh",
+      "lastName": "Isha"
+    },
+    {
+      "id": 2,
+      "firstName": "Kishan",
+      "lastName": "Naik"
+    },
+    {
+      "id": 3,
+      "firstName": "Dylan",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Dinesh",
+      "lastName": "M",
+      "id": 4
+    },
+    {
+      "firstName": "Dinesh",
+      "lastName": "M",
+      "id": 5
+    },
+    {
+      "firstName": "Omkar",
+      "lastName": "Naik",
+      "id": 6
+    },
+    {
+      "firstName": "Shubhum",
+      "lastName": "SOFTWARE",
+      "id": 7
+    },
+    {
+      "firstName": "Dinesh",
+      "lastName": "SOFTWARE",
+      "id": 8
+    }
+  ]
+}
